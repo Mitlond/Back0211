@@ -32,5 +32,5 @@
 	var person = new Person;
 	var personView = new PersonView({model: person});
 	
-	var person2 = new Person({'name':'Artem', 'age': 10});
+	var person2 = new Person({'name':'Artem', 'age': 19});
 	var personView2 = new PersonView({model: person2});
